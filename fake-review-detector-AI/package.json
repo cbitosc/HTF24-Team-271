@@ -1,5 +1,5 @@
 {
-  "name": "fake-review-detector",
+  "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "compromise": "^14.12.0",
-    "fake-review-detector": "file:",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
